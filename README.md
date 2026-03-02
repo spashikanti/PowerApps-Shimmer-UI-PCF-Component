@@ -52,7 +52,7 @@ While Microsoft provides a Shimmer in the **Power CAT Creator Kit**, many enterp
 Place the Shimmer over your Gallery/Table and set the following properties:
 
 - **Visible:** `varIsLoading`
-- **ShapeType:** `0` (Rectangle) or `1` (Circle)
+- **ShapeType:** `0` (Rectangle) or `1` (Circle) `2` (Rounded Rectangle)
 
 **The "Super User" Loading Logic:**
 ```powerapps
