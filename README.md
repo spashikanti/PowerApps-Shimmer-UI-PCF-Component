@@ -7,7 +7,8 @@ Part of the **SunilP.PowerApps-PCF** suite. This component replaces heavy Creato
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![Power Platform](https://img.shields.io/badge/Platform-Power%20Platform-blue)
 ![PCF](https://img.shields.io/badge/Type-PCF%20Control-orange)
-
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/spashikanti/SunilP-PowerApps-Shimmer?logo=github)](https://github.com/spashikanti/SunilP-PowerApps-Shimmer/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/spashikanti/SunilP-PowerApps-Shimmer/total?logo=github)](https://github.com/spashikanti/SunilP-PowerApps-Shimmer/releases)
 ---
 
 ![PowerShimmer Demo](./SunilP-PowerApps-Shimmer.gif)
