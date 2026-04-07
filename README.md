@@ -4,11 +4,21 @@
 
 Part of the **SunilP.PowerApps-PCF** suite. This component replaces heavy Creator Kit dependencies with a native, ultra-lightweight CSS animation.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-![Power Platform](https://img.shields.io/badge/Platform-Power%20Platform-blue)
-![PCF](https://img.shields.io/badge/Type-PCF%20Control-orange)
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/spashikanti/SunilP-PowerApps-Shimmer?logo=github)](https://github.com/spashikanti/SunilP-PowerApps-Shimmer/releases/latest)
-[![Downloads](https://img.shields.io/github/downloads/spashikanti/SunilP-PowerApps-Shimmer/total?logo=github)](https://github.com/spashikanti/SunilP-PowerApps-Shimmer/releases)
+![Microsoft Community](https://img.shields.io/badge/Microsoft%20Community-Super%20User-orange?style=for-the-badge&logo=microsoft)
+![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
+![Power Platform](https://img.shields.io/badge/Platform-Power%20Platform-blue?style=for-the-badge&logo=power-platform)
+![PCF](https://img.shields.io/badge/Type-PCF%20Control-orange?style=for-the-badge&logo=pcf-type)
+
+---
+
+## ⬇️ Get Started
+
+**Download the latest Power Platform solution package (ZIP):**
+
+[![Download ZIP](https://img.shields.io/badge/Download-Solution-blue?style=for-the-badge&logo=github)](https://github.com/spashikanti/SunilP-PowerApps-Shimmer/releases/latest)
+[![Release](https://img.shields.io/github/v/release/spashikanti/SunilP-PowerApps-Shimmer?style=for-the-badge&logo=github&color=brightgreen)](https://github.com/spashikanti/SunilP-PowerApps-Shimmer/releases/latest)
+[![Total Downloads](https://img.shields.io/github/downloads/spashikanti/SunilP-PowerApps-Shimmer/total?style=for-the-badge&color=yellow)](https://github.com/spashikanti/SunilP-PowerApps-Shimmer/releases)
+
 ---
 
 ![PowerShimmer Demo](./SunilP-PowerApps-Shimmer.gif)
