@@ -75,8 +75,18 @@ Set(varIsLoading, false);
 ---
 
 ## 🤝 Community & Contribution
-As a **Power Platform Super User**, I built this to solve the deployment bottlenecks of heavy UI kits identified in the community forums. If you have ideas for new patterns (e.g., "wave" vs "pulse"), feel free to open a Pull Request!
+As a **Power Platform Super User**, I build these components to solve real-world architectural bottlenecks. Whether it's optimizing payload sizes or enhancing UI responsiveness, I'm always looking for better patterns. If you have ideas or optimizations, feel free to open a Pull Request!
 
----
+# 👤 Author
 
-**Created by [Sunil Kumar Pashikanti](https://sunilpashikanti.com)** *Principal Architect | Power Platform Super User* **Blog:** [sunilpashikanti.blogspot.com](http://sunilpashikanti.blogspot.com)
+**Sunil Kumar Pashikanti** *Principal Architect | Microsoft Power Platform Super User*
+
+[![Community](https://img.shields.io/badge/Community-View%20Profile-indigo?style=for-the-badge&logo=microsoft)](https://community.powerplatform.com/profile/?userid=8077d18b-7b47-ee11-be6d-6045bdebe084)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sunil-kumar-pashikanti/)
+&nbsp;
+[![Blog](https://img.shields.io/badge/Blog-Blogger-FF5722?style=for-the-badge&logo=blogger)](http://sunilpashikanti.blogspot.com)
+&nbsp;
+[![Website](https://img.shields.io/badge/Portfolio-Visit-yellow?style=for-the-badge&logo=google-chrome)](https://sunilpashikanti.com)
+
+**Support the Project:** If this solution helped you optimize your app, please consider giving it a ⭐ to help others find it!
