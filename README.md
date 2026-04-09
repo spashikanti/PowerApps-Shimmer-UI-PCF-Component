@@ -71,6 +71,12 @@ Set(varIsLoading, true);
 Refresh('YourDataSource'); 
 Set(varIsLoading, false);
 ```
+---
+
+## 🤝 Contributing
+Contributions are welcome!
+- File **Issues** for bugs or feature requests.
+- Submit **Pull Requests** for performance optimizations or new format support.
 
 ---
 
@@ -79,7 +85,11 @@ As a **Power Platform Super User**, I build these components to solve real-world
 
 # 👤 Author
 
-**Sunil Kumar Pashikanti** *Principal Architect | Microsoft Power Platform Super User*
+<table style="border: none;">
+  <tr>
+    <td style="border: none;">
+      <strong>Sunil Kumar Pashikanti</strong><br>
+      <em>Principal Architect | Microsoft Power Platform Super User</em><br><br>
 
 [![Community](https://img.shields.io/badge/Community-View%20Profile-indigo?style=for-the-badge&logo=microsoft)](https://community.powerplatform.com/profile/?userid=8077d18b-7b47-ee11-be6d-6045bdebe084)
 &nbsp;
@@ -89,4 +99,8 @@ As a **Power Platform Super User**, I build these components to solve real-world
 &nbsp;
 [![Website](https://img.shields.io/badge/Portfolio-Visit-yellow?style=for-the-badge&logo=google-chrome)](https://sunilpashikanti.com)
 
-**Support the Project:** If this solution helped you optimize your app, please consider giving it a ⭐ to help others find it!
+</td>
+  </tr>
+</table>
+
+**Support the Project:** If this solution helped you, please consider giving it a ⭐ to help others find it!
